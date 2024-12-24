@@ -1,4 +1,4 @@
-# Analisis Distribusi Toleransi di Indonesia
+# Memetakan Tingkat Toleransi di Indonesia
 
 Proyek ini bertujuan untuk menganalisis distribusi tingkat toleransi di setiap provinsi di Indonesia menggunakan pendekatan berbasis data. Dengan memanfaatkan data toleransi dari berbagai wilayah, proyek ini menghasilkan representasi kuantitatif dan visualisasi yang memberikan gambaran objektif tentang tingkat toleransi di seluruh provinsi.
 
