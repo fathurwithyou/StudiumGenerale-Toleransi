@@ -1,0 +1,15 @@
+[
+  { "tahun": 2015, "rata_rata": 4.75 },
+  { "tahun": 2017, "rata_rata": 5.04 },
+  { "tahun": 2018, "rata_rata": 4.88 },
+  { "tahun": 2020, "rata_rata": 5 },
+  { "tahun": 2021, "rata_rata": 5.24 },
+  {
+    "tahun": 2022,
+    "rata_rata": 5.03
+  },
+  {
+    "tahun": 2023,
+    "rata_rata": 5.06
+  }
+]
